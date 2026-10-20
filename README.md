@@ -7,3 +7,7 @@ git init
 
 //successivamente per aggiungere i contenuti nell'area di "staging" 
 git add .
+
+//ogni tot tempo / modifica, dopo "git add ."
+git commit -m "messaggio"
+
