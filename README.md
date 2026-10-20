@@ -11,6 +11,11 @@ git add .
 //ogni tot tempo / modifica, dopo "git add ."
 git commit -m "messaggio"
 
+
+//per fare il login 
+gh auth login
+//e navigando tra i prompt, si fa il login alla piattaforma github
+
 // una volta creata la repository su github
 //per pushare :
 

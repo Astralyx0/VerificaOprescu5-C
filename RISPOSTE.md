@@ -8,3 +8,9 @@ può essere definita una struttura efficente per molti motivi, il principale è 
 
 -- il Client è l'host (dispositivo) da cui parte una richiesta
     il serve elabora la richiesta e restituisce una risposta
+
+
+
+
+ 3. Link alla repo
+ https://github.com/Astralyx0/VerificaOprescu5-C   
