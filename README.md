@@ -11,3 +11,9 @@ git add .
 //ogni tot tempo / modifica, dopo "git add ."
 git commit -m "messaggio"
 
+// una volta creata la repository su github
+//per pushare :
+
+git remote add origin https://github.com/Astralyx0/VerificaOprescu5-C.git
+git branch -M main
+git push -u origin main

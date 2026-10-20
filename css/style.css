@@ -1,0 +1,74 @@
+/* Styling delle pagine che compaiono in ogni pagina*/
+/* styling gobale per-tag    */
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: #ddd;
+
+   
+}
+
+a{  
+    text-decoration: none;
+    color: black;
+    
+}
+/*  sezione header */
+header{
+    background-color: #fff;
+    margin: 0 auto 30px 30px;
+    display: inline flex;
+    width: 95%;
+    border-radius: 0 0 30px 30px;
+    justify-content: center;
+    box-shadow: #aaa 3px 3px 5px;
+}
+
+header img{
+    width: 500px;
+    height: 200px;
+    display: flex;
+}
+/*         sezione barra di navigazione    */
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-content: space-evenly;
+
+    background-color: #fff;
+    margin: 1% auto 30px 30px;
+    padding: 1%;
+    width: 95%;
+    border-radius:30px;
+    box-shadow: #aaa 3px 3px 5px;
+}
+
+nav button{
+    padding: 1rem 2rem 1rem 2rem;
+    background-color: #dbdbdb;
+    border-radius:30px;
+    box-shadow: #aaa 3px 3px 5px;
+}
+
+/* Styling delle pagine */
+/* index */
+.Pizza_Card {
+    display: flex;
+    
+    
+}
+
+.Pizza_Card p {
+    display: inline-flex;
+    
+    
+}
+
+.Index {
+    background-color: #fff;
+    margin: 1% auto 30px 30px;
+    padding: 1%;
+    width: 95%;
+    border-radius:30px;
+    box-shadow: #aaa 3px 3px 5px;
+}
